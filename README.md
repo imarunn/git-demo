@@ -13,3 +13,5 @@ Another Message
 ## Removing few details 
 
 REMOVED details
+
+adding index.html
